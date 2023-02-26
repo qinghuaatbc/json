@@ -1,7 +1,7 @@
 [
   
   {
-    "name": "living",
+    "name": "living", 
     "top": 200,
     "left": 500,
     "entity_id":"light.hall_closet_ceiling_light"
