@@ -3,8 +3,8 @@
             "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
             "iconType": "IconType.beer"
         }, {
-            "text": "CCTV-2",
-            "url": "https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8",
+            "text": "ABC News",
+            "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
             "iconType": "IconType.beer"
         }, {
             "text": "CCTV-5",
