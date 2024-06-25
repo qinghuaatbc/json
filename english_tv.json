@@ -1,6 +1,6 @@
 [{
-            "text": "CCTV-1",
-            "url": "https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8",
+            "text": "CNN",
+            "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
             "iconType": "IconType.beer"
         }, {
             "text": "CCTV-2",
