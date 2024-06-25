@@ -1,0 +1,29 @@
+[{
+            "text": "CCTV-1",
+            "url": "https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8",
+            "iconType": "IconType.beer"
+        }, {
+            "text": "CCTV-2",
+            "url": "https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8",
+            "iconType": "IconType.beer"
+        }, {
+            "text": "CCTV-5",
+            "url": "https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8",
+            "iconType": "IconType.beer"
+        }, {
+            "text": "CCTV-6",
+            "url": "https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8",
+            "iconType": "IconType.beer"
+        }, {
+            "text": "CCTV-8",
+            "url": "https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8",
+            "iconType": "IconType.beer"
+        }, {
+            "text": "CCTV-9",
+            "url": "https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8",
+            "iconType": "IconType.beer"
+        }, {
+            "text": "CCTV-13",
+            "url": "https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8",
+            "iconType": "IconType.beer"
+        }]
