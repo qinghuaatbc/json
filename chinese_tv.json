@@ -6,38 +6,38 @@
             "iconType": "IconType.beer"
         }, {
             "text": "CCTV-2",
-             "detailText": "CCTV-1",
-            "image": "https://i0.wp.com/img.isuper.tv/live-tv/cn-tv/cctv1-live.jpg",
+             "detailText": "CCTV-2",
+            "image": "https://i0.wp.com/img.isuper.tv/live-tv/cn-tv/cctv2-live.jpg",
             "url": "https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8",
             "iconType": "IconType.beer"
         }, {
             "text": "CCTV-5",
-            "detailText": "CCTV-1",
-            "image": "https://i0.wp.com/img.isuper.tv/live-tv/cn-tv/cctv1-live.jpg",
+            "detailText": "CCTV-5",
+            "image": "https://i0.wp.com/img.isuper.tv/live-tv/cn-tv/cctv5-live.jpg",
             "url": "https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8",
             "iconType": "IconType.beer"
         }, {
             "text": "CCTV-6",
-            "detailText": "CCTV-1",
-            "image": "https://i0.wp.com/img.isuper.tv/live-tv/cn-tv/cctv1-live.jpg",
+            "detailText": "CCTV-6",
+            "image": "https://i0.wp.com/img.isuper.tv/live-tv/cn-tv/cctv6-live.jpg",
             "url": "https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8",
             "iconType": "IconType.beer"
         }, {
             "text": "CCTV-8",
-            "detailText": "CCTV-1",
-            "image": "https://i0.wp.com/img.isuper.tv/live-tv/cn-tv/cctv1-live.jpg",
+            "detailText": "CCTV-8",
+            "image": "https://i0.wp.com/img.isuper.tv/live-tv/cn-tv/cctv8-live.jpg",
             "url": "https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8",
             "iconType": "IconType.beer"
         }, {
             "text": "CCTV-9",
-            "detailText": "CCTV-1",
-            "image": "https://i0.wp.com/img.isuper.tv/live-tv/cn-tv/cctv1-live.jpg",
+            "detailText": "CCTV-9",
+            "image": "https://i0.wp.com/img.isuper.tv/live-tv/cn-tv/cctv9-live.jpg",
             "url": "https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8",
             "iconType": "IconType.beer"
         }, {
             "text": "CCTV-13",
-            "detailText": "CCTV-1",
-            "image": "https://i0.wp.com/img.isuper.tv/live-tv/cn-tv/cctv1-live.jpg",
+            "detailText": "CCTV-13",
+            "image": "https://i0.wp.com/img.isuper.tv/live-tv/cn-tv/cctv13-live.jpg",
             "url": "https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8",
             "iconType": "IconType.beer"
         }]
