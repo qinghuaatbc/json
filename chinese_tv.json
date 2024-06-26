@@ -1,5 +1,7 @@
 [{
             "text": "CCTV-1",
+            "detailText": "CCTV-1"
+            "image": "https://i0.wp.com/img.isuper.tv/live-tv/cn-tv/cctv1-live.jpg"
             "url": "https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8",
             "iconType": "IconType.beer"
         }, {
