@@ -1,10 +1,10 @@
 [{
             "text": "Kitchen",
-            "entity_id": "aaaa",
+            "entity_id": "light.hall_closet_ceiling_light",
             "iconType": "IconType.beer"
         }, {
             "text": "family",
-            "entity_id": "https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8",
+            "entity_id": "light.shower_bathroom_shower_lights",
             "iconType": "IconType.beer"
           }, {
           "text": "dining",
