@@ -1,40 +1,13 @@
-[
-  
-  {
-    "name": "living", 
-    "top": 200,
-    "left": 500,
-    "entity_id":"light.hall_closet_ceiling_light"
-
-  },
-
-  {
-    "name": "family",
-
-    "top": 300,
-    "left": 200,
-    "entity_id":"light.hall_closet_ceiling_light"
-
-  },
-
-  {
-    "name": "living",
-
-    "top": 500,
-    "left": 500,
-    "entity_id":"light.shower_bathroom_shower_lights"
-
-  },
-
-  {
-    "name": "family",
-
-    "top": 600,
-    "left": 300,
-    "entity_id":"light.shower_bathroom_shower_lights"
-
-  }
-
-
-
-]
+[{
+            "text": "Kitchen",
+            "entity_id": "aaaa",
+            "iconType": "IconType.beer"
+        }, {
+            "text": "family",
+            "entity_id": "https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8",
+            "iconType": "IconType.beer"
+          }, {
+          "text": "dining",
+          "entity_id": "https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8",
+          "iconType": "IconType.beer"
+        }]
