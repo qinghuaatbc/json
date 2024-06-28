@@ -1,4 +1,4 @@
-[{
+[       {
             "text": "Kitchen",
             "entity_id": "light.hall_closet_ceiling_light",
             "iconType": "IconType.beer"
@@ -10,7 +10,4 @@
             "text": "Kitchen",
             "entity_id": "light.hall_closet_ceiling_light",
             "iconType": "IconType.beer"
-        }
-
-
-]
+        }]
