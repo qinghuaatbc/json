@@ -2,4 +2,15 @@
             "text": "Kitchen",
             "entity_id": "light.hall_closet_ceiling_light",
             "iconType": "IconType.beer"
-        }]
+        };{
+            "text": "family",
+            "entity_id": "light.shower_bathroom_shower_lights",
+            "iconType": "IconType.beer"
+        };{
+            "text": "Kitchen",
+            "entity_id": "light.hall_closet_ceiling_light",
+            "iconType": "IconType.beer"
+        }
+
+
+]
