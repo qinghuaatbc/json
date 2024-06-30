@@ -10,4 +10,8 @@
             "text": "The Time Traveler's Wife",
             "url": "https://ewr1.vultrobjects.com/movie/the.time.travelers.wife.2009.bluray.720p.h264.mp4",
             "iconType": "IconType.beer"
-        }]
+        },{
+            "text": "L.A. Confidential",
+            "url": "http://24.80.130.5:5080/LiveApp/streams/902124743266597680254620.mp4",
+            "iconType": "IconType.beer"
+        ]
