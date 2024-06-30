@@ -22,4 +22,16 @@
             "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/La_confidential.jpg",
             "url": "http://24.80.130.5:5080/LiveApp/streams/902124743266597680254620.mp4",
             "iconType": "IconType.beer"
+},{
+            "text": "Pretty Woman",
+            "detailText": "Pretty Womanl",
+            "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/Pretty_woman_movie.jpg",
+            "url": "http://24.80.130.5:5080/LiveApp/streams/955546836489631215699950.mp4",
+            "iconType": "IconType.beer"
+},{
+            "text": "Basic Instinct",
+            "detailText": "Basic Instinct",
+            "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Basic_Instinct.png",
+            "url": "http://24.80.130.5:5080/LiveApp/streams/831841351398092834472782.mp4",
+            "iconType": "IconType.beer"
 } ]
