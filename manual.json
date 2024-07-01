@@ -10,4 +10,10 @@
             "image": "https://www.astralsecurite.ca/thumbnail/416-416-honeywell-vista-20p-intruder-alarm-kit-v2090wcnkti-images-vistapng.png",
             "url": "https://firebasestorage.googleapis.com/v0/b/customer-f29a1.appspot.com/o/manual%2Fvista20Po.pdf?alt=media&token=b187fa7e-6d6b-4db4-ac2c-4122590b7152",
             "iconType": "IconType.beer"
-        } ]
+        } , {
+            "text": "Honeywell 4232cmb",
+            "detailText": "Honeywell 4232cmb",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQxjpCvwTQmKmNpF4ANVJXaNj9frdex_SstQ&s"
+            "url": "https://firebasestorage.googleapis.com/v0/b/customer-f29a1.appspot.com/o/manual%2Fhoneywell-4232cbm-installation-and-setup-guide.pdf?alt=media&token=04c52a4f-4402-4269-9978-23d9c1a5cfa1",
+            "iconType": "IconType.beer"
+        }
