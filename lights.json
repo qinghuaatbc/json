@@ -1,25 +1,37 @@
 [       {
             "text": "Kitchen",
+            "x": 10,
+            "y": 20,
             "entity_id": "light.hall_closet_ceiling_light",
             "iconType": "IconType.beer"
         },{
             "text": "family",
+             "x": 30,
+            "y": 40,
             "entity_id": "light.shower_bathroom_shower_lights",
             "iconType": "IconType.beer"
         },{
             "text": "Kitchen",
+             "x": 50,
+            "y": 60,   
             "entity_id": "light.hall_closet_ceiling_light",
             "iconType": "IconType.beer"
         }, {
             "text": "Kitchen",
+             "x": 70,
+            "y": 80,
             "entity_id": "light.hall_closet_ceiling_light",
             "iconType": "IconType.beer"
         },{
             "text": "family",
+             "x": 90,
+            "y": 120,
             "entity_id": "light.shower_bathroom_shower_lights",
             "iconType": "IconType.beer"
         },{
             "text": "Kitchen",
+             "x": 120,
+            "y": 220,
             "entity_id": "light.hall_closet_ceiling_light",
             "iconType": "IconType.beer"
         }
