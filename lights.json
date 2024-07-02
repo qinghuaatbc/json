@@ -24,14 +24,14 @@
             "iconType": "IconType.beer"
         },{
             "text": "family",
-             "x": 390,
-            "y": 20,
+             "x": 290,
+            "y": 220,
             "entity_id": "light.shower_bathroom_shower_lights",
             "iconType": "IconType.beer"
         },{
             "text": "Kitchen",
-             "x": 620,
-            "y": 220,
+             "x": 320,
+            "y": 320,
             "entity_id": "light.hall_closet_ceiling_light",
             "iconType": "IconType.beer"
         }
