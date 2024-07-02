@@ -20,7 +20,7 @@
             "text": "CCTV-6",
             "detailText": "CCTV-6",
             "image": "https://i0.wp.com/img.isuper.tv/live-tv/cn-tv/cctv6-live.jpg",
-            "url": "https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8",
+            "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8",
             "iconType": "IconType.beer"
         }, {
             "text": "CCTV-8",
