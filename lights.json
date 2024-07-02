@@ -6,7 +6,7 @@
             "iconType": "IconType.beer"
         },{
             "text": "family",
-             "x": 230,
+             "x": 130,
             "y": 40,
             "entity_id": "light.shower_bathroom_shower_lights",
             "iconType": "IconType.beer"
@@ -24,13 +24,13 @@
             "iconType": "IconType.beer"
         },{
             "text": "family",
-             "x": 290,
+             "x": 190,
             "y": 220,
             "entity_id": "light.shower_bathroom_shower_lights",
             "iconType": "IconType.beer"
         },{
             "text": "Kitchen",
-             "x": 320,
+             "x": 220,
             "y": 320,
             "entity_id": "light.hall_closet_ceiling_light",
             "iconType": "IconType.beer"
