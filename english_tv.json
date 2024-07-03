@@ -24,8 +24,8 @@
             "iconType": "IconType.beer"
         }, {
             "text": "30A Classic Movies",
-             "detailText": "NBC News",
-            "image": "",
+             "detailText": "30A Classic Movies",
+            "image": "https://i.imgur.com/IpfmG93.png",
             "url": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8",
             "iconType": "IconType.beer"
         }, {
