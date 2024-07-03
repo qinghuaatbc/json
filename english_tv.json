@@ -15,6 +15,12 @@
             "image": "https://i.imgur.com/v48mMRT.png",
             "url": "http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8",
             "iconType": "IconType.beer"
+        },  {
+            "text": "BBC News",
+             "detailText": "BBC News",
+            "image": "https://i.imgur.com/REuN9RR.png",
+            "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
+            "iconType": "IconType.beer"
         }, {
             "text": "HBO2 East",
              "detailText": "HBO2 East",
