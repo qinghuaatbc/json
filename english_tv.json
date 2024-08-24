@@ -31,6 +31,13 @@
             "text": "30A Classic Movies",
              "detailText": "30A Classic Movies",
              "image": "https://cdn.castify.ai/files/channels/lw/xs95m956wa/menu_logo_image/1662032299.png",
+            "url": "rtsp://admin:12345abcde@rob5937.ddns.net:554/Streaming/Channels/102",
+            "iconType": "IconType.beer"
+        },  
+           {
+            "text": "30A Classic Movies",
+             "detailText": "30A Classic Movies",
+             "image": "https://cdn.castify.ai/files/channels/lw/xs95m956wa/menu_logo_image/1662032299.png",
             "url": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8",
             "iconType": "IconType.beer"
         } ]
